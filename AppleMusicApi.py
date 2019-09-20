@@ -1,6 +1,9 @@
 import applemusicpy
+import jwt
 
-secret_key=''
+secret_key='-----BEGIN PRIVATE KEY-----\
+MIGTAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBHkwdwIBAQQgIICe4VRtABygJZsP+VUIHvIUh0VcL3FJlV8hS7d6ytKgCgYIKoZIzj0DAQehRANCAAT2Q6bc+l4lF+kGrLaFAGLGo8NZGAIIRdejGIGQ/Eh8rBnCcI7LQ+MpmLl/AaFzxT+67QVDZrqa1zaEWARq/5V9\
+-----END PRIVATE KEY-----'
 key_id = '34MTF92235'
 team_id = 'N9DZ7SVRB9'
 
